@@ -6,4 +6,5 @@ We can directly import an existing labelled dataset of images from the kaggle we
 Then we will train an object detection model using the nocode interface of Azure Custom Vision.
 We can use some python code to call the Azure Custom vision deployed model to display the results.
 
+
 <img src="animatedgif.gif>
