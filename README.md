@@ -7,4 +7,4 @@ Then we will train an object detection model using the nocode interface of Azure
 We can use some python code to call the Azure Custom vision deployed model to display the results.
 
 
-<img src="animatedgif.gif>
+<img src="animatedgif.gif">
