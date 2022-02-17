@@ -12,3 +12,7 @@ Documentation: https://docs.microsoft.com/en-us/azure/cognitive-services/custom-
 <br>
 
 <img src="animatedgif.gif">
+
+17-Feb-2022
+
+Serge Retkowsky | serge.retkowsky@microsoft.com | https://www.linkedin.com/in/serger/
