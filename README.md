@@ -2,8 +2,8 @@
 
 This is an Azure Custom Vision demo to detect swimming pool from aerial images.
 
-Labeled images: https://www.kaggle.com/alexj21/swimming-pool-512x512/metadata
-Thanks Alex for sharing this!
+Labeled images: https://www.kaggle.com/alexj21/swimming-pool-512x512/metadata<br>
+Thanks Alex for sharing this!<br>
 
 1. We can directly import an existing labelled dataset of images from the kaggle website into an Azure Custom Vision project using PyLabel (no need to do the labelling task).<br>
 2. Then we will train an object detection model using the nocode interface of Azure Custom Vision.<br>
