@@ -7,5 +7,6 @@ This is an Azure Custom Vision demo to detect swimming pool from aerial images.
 3. We can use some python code to call the Azure Custom vision deployed model to display the results.<br>
 <br>
 
+Azure Custom Vision : www.customvision.ai
 
 <img src="animatedgif.gif">
